@@ -1,7 +1,8 @@
 # GoogLeNet-Pytorch
 ![GoogLeNet](https://badgen.net/badge/GoogLeNet/Pytorch/cyan?icon=github)
 
-代码使用Pytorch构建GoogLeNet架构，Pytorch可从官网查看下载方式（https://pytorch.org/get-started/locally/），torchinfo可由pip install下载，主要用来显示网络具体架构。
+代码使用Pytorch构建GoogLeNet架构，Pytorch可从官网查看下载方式https://pytorch.org/get-started/locally/
+torchinfo可由pip install下载，主要用来显示网络具体架构。
 
 'GoogLeNet.pdf'是原论文。
 
